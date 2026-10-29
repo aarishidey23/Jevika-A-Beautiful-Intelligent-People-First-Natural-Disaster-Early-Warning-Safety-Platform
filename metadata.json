@@ -1,0 +1,8 @@
+{
+  "name": "Jeevika Humanitarian Safety Platform",
+  "description": "A human-centered natural disaster preparedness, family safety check-in, and emergency response platform built for calm authority and crisis resilience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
